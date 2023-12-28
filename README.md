@@ -1,1 +1,1 @@
-![network diagram](https://github.com/hashim286/LAN-Diagram/assets/112742556/b8876105-a7bd-49a2-b171-b10186ef6cae)
+![Network Diagram](https://github.com/hashim286/LAN-Diagram/assets/112742556/64d8aada-ea14-448b-8bdc-019346247ad5)
